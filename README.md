@@ -24,9 +24,8 @@ Ensemble ML model
 After comparing our ML models, 
 we used feature selection among radiomics variables(pet1, pet2) to evaluate importance of our predcition
 ```
-### * DeLong test 
+### * DeLong test [Code in project](https://github.com/hoyajhl/VHS_research_ML/blob/main/AUC_delong.R)
 ```
 Auc Comparison and p-vlaue were considered - Using R software
-[DeLong test code](https://github.com/hoyajhl/VHS_research_ML/blob/main/AUC_delong.R)
 ```
 ### * Research Thesis Link: currently working on it 
