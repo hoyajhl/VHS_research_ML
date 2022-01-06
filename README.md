@@ -27,5 +27,6 @@ we used feature selection among radiomics variables(pet1, pet2) to evaluate impo
 ### * DeLong test 
 ```
 Auc Comparison and p-vlaue were considered - Using R software
+[DeLong test code](https://github.com/hoyajhl/VHS_research_ML/blob/main/AUC_delong.R)
 ```
 ### * Research Thesis Link: currently working on it 
