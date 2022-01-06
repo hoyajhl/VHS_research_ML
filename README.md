@@ -5,9 +5,11 @@
 ```
 -EDA / Missing values 
 -Sacling process 
--We adopted SMOTE (Synthetic Minority Oversampling Technique) in order to solve Class Imbalanced problems in our data. 
+-We adopted SMOTE (Synthetic Minority Oversampling Technique) 
+in order to solve Class Imbalanced problems in our data. 
 After constructing new data with this technique, 
-we compared the performeace of prediction according to different types of Machine Learning models. 
+we compared the performance of prediction 
+according to different types of Machine Learning models. 
 ```
 ### * ML Model comparison (Optimization process Included)  
 ```
